@@ -93,3 +93,11 @@ nav a > span:last-child {
   width: 250px;
   margin-left: 30px;
 }
+
+.spinner-wrapper {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

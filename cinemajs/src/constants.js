@@ -1,6 +1,6 @@
 //urls
 
-export const BASE_URL = 'http://cinema-app-1.herokuapp.com/api/';
+export const MOVIES_URL = 'https://trevadim.github.io/data/movies.json';
 
 //actions
 
